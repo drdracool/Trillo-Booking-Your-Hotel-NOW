@@ -1,6 +1,6 @@
 # Trillo-Booking-Your-Hotel-NOW
 
-An responsive official website built for a virtual hotel named Trillo situated in Albufeira, Portugal
+A responsive official website built for a virtual hotel named Trillo situated in Albufeira, Portugal
 
 <img width="717" alt="image" src="https://user-images.githubusercontent.com/97832811/211012920-1d5e4ec2-3a82-4b00-8c29-e6fd9e1fade5.png">
 
